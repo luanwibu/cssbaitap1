@@ -1,22 +1,31 @@
-p {
-  color: red; 
+h1 {
+    color: black; 
 }
 
-.note {
-  font-size: 20px; 
+h2 {
+    color: gray; 
 }
 
-
-#id-selector-demo {
-  color: green; 
+#red {
+    color: red; 
 }
 
-
-li[value="4"] {
-  color: blue; 
+#blue {
+    color: blue; 
 }
 
+#orange {
+    color: orange; 
+}
 
-li {
-  text-align: center;  
+#green {
+    color: green; 
+}
+
+#yellow {
+    color: yellow; 
+}
+
+.color-title {
+    font-weight: normal; 
 }
